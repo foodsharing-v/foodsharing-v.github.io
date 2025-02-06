@@ -280,7 +280,7 @@ Lagerung: dunkel und trocken.
 
 -----------
 
-Frage: **U** Ich es ist nicht riskant zubereiteten Reis sofort einzufrieren und nach dem Auftauen direkt erhitzen und essen.  
+Frage: **U** Es ist nicht riskant zubereiteten Reis sofort einzufrieren und nach dem Auftauen direkt erhitzen und essen.  
 Frage: **V** Ich darf Eier mit 5 Tagen überschrittenem MHD nicht weitergeben, aber selbst Kekse daraus backen, da Salmonellen absterben, während Toxine nicht ausgeschieden werden.
 
 -----------
@@ -341,7 +341,7 @@ Eine:r aus dem Begrüßungsteam vermittelt dir Termine für zwei Einführungsabh
 -----------
 
 Frage: **Y** Sobald ich mit dem Einführungsprozess durch bin, kann ich mich in die Abholungstermine in den Betriebsteams eintragen.  
-Frage: **Z** Ich muss die Ergebnisse aus diesen Fragen an die Person senden, die mich begrüßt.
+Frage: **Z** Ich muss die Ergebnisse aus diesen Fragen an die Person senden, die mich begrüßt.  
 Es kommen noch weitere Fragen
 
 -----------
