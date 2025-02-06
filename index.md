@@ -5,7 +5,51 @@ Lebensmittelverschwendung ein.
 
 Als Mitglied der Initiative foodsharing.at in Vorarlberg hast du die Möglichkeit, bei kooperierenden Betrieben unverkäufliche Lebensmittel abzuholen und diese zur festgelegten Zeit abzuholen. Was und wie viel das ist, ist unbekannt. Meistens ist es aber recht viel, das von geschickten Fahrradfahrern bei Kooperationen in Vorarlberg autofrei abgeholt werden kann. Wie du die Lebensmittel verwendest, ist dir überlassen, solange du sie nicht verkaufst oder eine Tauschware erwartest und dafür sorgst, dass sie von Menschen gegessen werden. Wer Mitglied werden möchte, muss vier Einführungen und ein Quiz bestehen. Danach kannst du selbst entscheiden, wann und wie oft du Abholungen durchführen möchtest. 
 
-- [🌱 Rollen der Mitglieder bei foodsharing](#-rollen-der-mitglieder-bei-foodsharing)
+
+# Inhalt
+
+- 🌱 [Rollen der Mitglieder bei foodsharing](#-rollen-der-mitglieder-bei-foodsharing)
+  - 🌱 [Foodsharer:in](#-foodsharerin)
+  - 🌱 [Foodsaver:in](#-foodsaverin)
+  - 🌱 [Betriebsverantwortliche-(BV)](#-betriebsverantwortliche-bv)
+  - 🌱 [Botschafter-(BOT)](#-botschafter-bot)
+  - 🌱 [Begrüßungsteam](#-begrüßungsteam)
+- 🌱 [Betrieb](#-betrieb)
+- 🌱 [Quiz](#-quiz)
+- 🌱 [Rechtsvereinbarung-Foodsavende,-Eigenerklärung---Verhaltenskodex-und-Sorgfaltspflichten-(gekürzte-Variante)](#-rechtsvereinbarung-foodsavende-eigenerklaerung---verhaltenskodex-und-sorgfaltspflichten-gekuerzte-variante)
+  - 🌱 [Regeln](#-regeln)
+    - 🌱 [Verhalten-bei-Abholungen](#-verhalten-bei-abholungen)
+    - 🌱 [Als-Foodsaver-in-erklaere-ich,](#-als-foodsaverin-erklaere-ich)
+    - 🌱 [Meldung-und-Konsequenzen](#-meldung-und-konsequenzen)
+- 🌱 [Hygiene](#-hygiene)
+  - 🌱 [Basisschulung](#-basisschulung)
+  - 🌱 [Mindesthaltbarkeitsdatum-(MHD)](#-mindesthaltbarkeitsdatum-mhd)
+  - 🌱 [Verbrauchsdatum-(VD)-„zu-verbrauchen-bis-…“](#-verbrauchsdatum-vd-zu-verbrauchen-bis)
+  - 🌱 [Sensible-Lebensmittel](#-sensible-lebensmittel)
+  - 🌱 [Empfindliche-Lebensmittel](#-empfindliche-lebensmittel)
+  - 🌱 [Unempfindliche-Lebensmittel](#-unempfindliche-lebensmittel)
+  - 🌱 [Sonderfälle](#-sonderfaelle)
+  - 🌱 [Abholung](#-abholung)
+  - 🌱 [Bei-Krankheit-kein-Umgang-mit-offenen-Lebensmitteln](#-bei-krankheit-kein-umgang-mit-offenen-lebensmitteln)
+- 🌱 [Außerdem](#-außerdem)
+- 🌱 [Weg-zum-foodsharing-Ausweis](#-weg-zum-foodsharing-ausweis)
+- 🌱 [Nach-den-Einführungen](#-nach-den-einfuehrungen)
+- 🌱 [Kleiner-Webseiten-Guide](#-kleiner-webseiten-guide)
+- 🌱 [Betriebsteam-und-Abholungen](#-betriebsteam-und-abholungen)
+- 🌱 [Kooperationen](#-kooperationen)
+- 🌱 [Weitere-Informationen](#-weitere-informationen)
+- 🌱 [Fairteilung,-Fairteiler,-Offene-Kühlschränke-und-Abgabestellen](#-fairteilung-fairteiler-offene-kuehlschraenke-und-abgabestellen)
+- 🌱 [Kosten-und-Geld](#-kosten-und-geld)
+- 🌱 [foodsharing-Bezirk](#-foodsharing-bezirk)
+- 🛒 [Kooperationsverantwortlichkeit-/Betriebsverantwortlichkeit](#-kooperationsverantwortlichkeit--betriebsverantwortlichkeit)
+  - 🛒 [Betriebsverantwortlich-werden](#-betriebsverantwortlich-werden)
+  - 🛒 [Betriebsketten](#-betriebsketten)
+  - 🛒 [Rechtsvereinbarung-für-Betriebsverantwortliche](#-rechtsvereinbarung-fuer-betriebsverantwortliche)
+  - 🛒 [Weitere-Aufgaben-von-Betriebsverantwortlichen,-die-in-der-Rechtsvereinbarung-unerwähnt-bleiben](#-weitere-aufgaben-von-betriebsverantwortlichen-die-in-der-rechtsvereinbarung-unerwaehnt-bleiben)
+    - 🛒 [Einspringen-bei-Ausfall](#-einspringen-bei-ausfall)
+    - 🛒 [Betriebsteam](#-betriebsteam)
+
+-----------
 
 Dieses Handbuch ist eine Einführung und ein Nachschlagewerk für alle Foodsavenden, die in Vorarlberg Abholungen durchführen oder machen wollen. 
 
