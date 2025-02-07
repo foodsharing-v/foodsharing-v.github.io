@@ -732,6 +732,8 @@ Kleine, nicht inhaltliche Korrekturen werden schneller umgesetzt.
 Oberstes Ziel ist es, angehende Foodsaver:innen gezielt auf das Quiz und die Arbeit als Foodsaver:in vorzubereiten. Daher ist es vollständig, kurz, aber prägnant. Die Besonderheiten in Vorarlberg sind in diesem Handbuch nachschlagbar.
 
 ## 📖 Links zum Handbuch
+- [foodsharing-v.github.io](https://foodsharing-v.github.io/) ([Versionen](https://github.com/foodsharing-v/foodsharing-v.github.io/commits/main/index.md))
+
 **Bezirke**
 - [Dornbirn](https://beta.foodsharing.at/region/811), [Willkommen](https://beta.foodsharing.at/region?bid=811&sub=forum&tid=279135), [Hygiene](https://beta.foodsharing.at/region?bid=811&sub=forum&tid=270499)
 - [Bludenz](https://beta.foodsharing.at/region/4456), [Willkommen](https://beta.foodsharing.at/region?bid=4456&sub=forum&tid=195216), [Hygiene](https://beta.foodsharing.at/region?bid=4456&sub=forum&tid=270496)
@@ -741,7 +743,7 @@ Oberstes Ziel ist es, angehende Foodsaver:innen gezielt auf das Quiz und die Arb
 - [Vorarlberg](https://beta.foodsharing.at/region/134)
 
 **Kopien, Weiterleitungen**
-- Original auf [Github](https://github.com/foodsharingVorarlbergPascal/foodsharingHandbuchVorarlberg/wiki) mit Versionshistorie
-- [Printversion in der Foodsharing Cloud (A)](https://cloud.foodsharing.at/s/E8TS5cwJM2qGF7J)
+- [Weiterleitung aus der Foodsharing Cloud (A)](https://cloud.foodsharing.at/s/E8TS5cwJM2qGF7J)
 - [Im Bezirksforum](https://foodsharing.at/region?bid=134&sub=forum&tid=279053) ([.de](https://foodsharing.de/region?bid=134&sub=forum&tid=279053), [beta...at](https://beta.foodsharing.at/region?bid=134&sub=forum&tid=279053), [beta...de](https://beta.foodsharing.de/region?bid=134&sub=forum&tid=279053))
 - Tiny Weiterleitung: http://tiny.cc/fsHand
+- ursprünglich auf [Github](https://github.com/foodsharingVorarlbergPascal/foodsharingHandbuchVorarlberg/wiki) mit Versionshistorie
