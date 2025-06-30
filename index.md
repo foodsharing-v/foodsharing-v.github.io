@@ -266,12 +266,13 @@ Bakterien vermehren sich rasant durch Zellteilung. Eine unterbrochene Kühlkette
 
 ### 🌱 Basisschulung
 
-In Österreich ist eine jährliche Teilnahme an der Online-Hygieneschulung erforderlich, um dich, andere und Kooperationen zu schützen. [Termine findest du auf deinem Dashboard oder im Bezirk Österreich](https://foodsharing.at/region?bid=63&sub=events), diese werden unregelmäßig angeboten. Der Inhalt der Schulung ist in diesem Kapitel zusammengefasst.
-Die ausführliche Hygieneschulung, die mit einem Quiz auf der Plattform bestätigt werden muss, ist ebenfalls gültig und kann ich manchen Betrieben nötig sein. Das Quiz findest du auf der [Profilseite links](https://foodsharing.at/user/current/settings?sub=hygiene). Alle anderen Schulungen, z.B. die der METRO sind nicht gültig.
+In Österreich ist eine jährliche Bestätigung des Verständnisses über Basishygiene durch das Hygienequiz erforderlich. Zur Vorbereitung empfiehlt sich die Teilnahme an der Online-Hygieneschulung. Das Ziel dieser Schulung ist es, sowohl andere als auch Kooperationen zu schützen.
+
+Termine zur Online-Hygieneschulung findest du auf deinem Dashboard oder [im Bezirk Österreich](https://foodsharing.at/region?bid=63&sub=events). Diese werden unregelmäßig angeboten. Das Quiz kannst du auf der [Profilseite links](https://foodsharing.at/user/current/settings?sub=hygiene) finden.
 
 -----------
 
-Frage: **R** Bis ich die Hygieneschulung benötige, habe ich eine Übergangsfrist.
+Frage: **R** Bis ich das Hygienequiz benötige, habe ich eine Übergangsfrist und kann bereits Lebensmittel retten.
 
 -----------
 
