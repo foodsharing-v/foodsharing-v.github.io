@@ -75,7 +75,7 @@ Notiere dir gleich die Buchstaben der richtigen Aussagen und Antworten. Diese mu
 
 -----------
 
-Frage: Foodsharing Vorarlberg ist **A** eine Initiative **B** eine Organisation  
+Frage: Foodsharing Vorarlberg ist **A** eine Initiative **B** ein Verein.  
 Frage: **F** Ich muss mich regelmäßig beteiligen.
 
 -----------
