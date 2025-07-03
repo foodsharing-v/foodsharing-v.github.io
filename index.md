@@ -3,7 +3,7 @@
 Wir setzen uns für mehr Wertschätzung von Lebensmitteln und gegen  
 Lebensmittelverschwendung ein.
 
-Als Mitglied der Initiative foodsharing.at in Vorarlberg hast du die Möglichkeit, bei kooperierenden Betrieben unverkäufliche Lebensmittel abzuholen und diese zur festgelegten Zeit abzuholen. Was und wie viel das ist, ist unbekannt. Meistens ist es aber recht viel, das von geschickten Fahrradfahrern bei Kooperationen in Vorarlberg autofrei abgeholt werden kann. Wie du die Lebensmittel verwendest, ist dir überlassen, solange du sie nicht verkaufst oder eine Tauschware erwartest und dafür sorgst, dass sie von Menschen gegessen werden. Wer Mitglied werden möchte, muss vier Einführungen und ein Quiz bestehen. Danach kannst du selbst entscheiden, wann und wie oft du Abholungen durchführen möchtest. 
+Als Mitglied der Initiative foodsharing.at in Vorarlberg hast du die Möglichkeit, bei kooperierenden Betrieben unverkäufliche Lebensmittel zu festgelegten Zeiten abzuholen. Was und wie viel das ist, ist unbekannt. Meistens ist es aber recht viel, das von geschickten Fahrradfahrern bei Kooperationen in Vorarlberg autofrei abgeholt werden kann. Wie du die Lebensmittel verwendest, ist dir überlassen, solange du sie nicht verkaufst oder eine Tauschware erwartest und dafür sorgst, dass sie von Menschen gegessen werden. Wer Mitglied werden möchte, muss drei Einführungen und zwei Quiz bestehen. Danach kannst du selbst entscheiden, wann und wie oft du Abholungen durchführen möchtest. 
 
 
 # Inhalt
@@ -98,7 +98,7 @@ Ein:e Foodsharer:in ist ein registriertes Mitglied von [foodsharing](https://foo
 
 -----------
 
-Frage: **C** Foodsharende dürfen bei Betrieben Lebensmittel abholen.
+Frage: **r** Foodsharende dürfen bei Betrieben Lebensmittel abholen.
 
 -----------
 
@@ -114,7 +114,7 @@ Frage: **C** Foodsharende dürfen bei Betrieben Lebensmittel abholen.
 
 -----------
 
-Frage: Foodsavende **D** haben Einführungen erhalten, **E** können sich selbstständig in Abholtermine eintragen, **F** können Betriebe zur Kooperation bitten.
+Frage: Foodsavende **Q** haben Einführungen erhalten, **i** können sich selbstständig in Abholtermine eintragen, **X** können Betriebe zur Kooperation bitten.
 
 -----------
 
@@ -125,7 +125,7 @@ Sie sind für die Pflege der Kooperation mit einem Betrieb zuständig, Ansprechp
 
 -----------
 
-Frage: **G** Foodsavende sind automatisch Betriebsverantwortliche.
+Frage: **N** Foodsavende sind automatisch Betriebsverantwortliche.
 
 -----------
 
@@ -135,7 +135,7 @@ BOTs leiten und repräsentieren foodsharing in einem oder mehreren Bezirken. Sie
 
 -----------
 
-Frage: **H** Bei Fragen, die den Bezirk betreffen, wende ich mich an den/die BOT.
+Frage: **g** Bei Fragen, die den Bezirk betreffen, wende ich mich an den/die BOT.
 
 -----------
 ## 🌱 Begrüßungsteam
@@ -189,7 +189,7 @@ Ich bestätige, die Regeln einzuhalten. Verletzungen anderer Foodsavenden melde 
 
 -----------
 
-Frage: **I** Mit der Bestätigung der Rechtsvereinbarung für Foodsavende darf ich keine Kooperationen aufbauen.
+Frage: **Y** Mit der Bestätigung der Rechtsvereinbarung für Foodsavende darf ich keine Kooperationen aufbauen.
 
 -----------
 
@@ -227,11 +227,11 @@ Frage: **J** Ich muss meinen echten Namen angeben, sonst muss ich ihn korrigiere
 
 -----------
 
-Frage: **K** Freunde ohne Foodsharing-Ausweis dürfen nur außerhalb des Betriebs als Tragehilfe helfen.  
-Frage: **L** Befinden sich 2 Abholtermine nebeneinander, müssen die 2 eingetragenen Personen zeitgleich in den Betrieb.  
+Frage: **S** Freunde ohne Foodsharing-Ausweis dürfen nur außerhalb des Betriebs als Tragehilfe helfen.  
+Frage: **a** Befinden sich 2 Abholtermine nebeneinander, müssen die 2 eingetragenen Personen zeitgleich in den Betrieb.  
 Frage: **M** Der Betrieb sieht am Foodsharing-Ausweis, dass ich die Verantwortung für die Produkte übernehme.  
-Frage: **N** Wenn ich mich für eine Abholung eintrage, muss ich diese durchführen und sollte sie nur in Ausnahmefällen absagen, muss dann aber für Ersatz sorgen.  
-Frage: **O** Im Betriebsteam haben alle die gleichen Aufgaben, inklusive BV.
+Frage: **b** Wenn ich mich für eine Abholung eintrage, muss ich diese durchführen und sollte sie nur in Ausnahmefällen absagen, muss dann aber für Ersatz sorgen.  
+Frage: **Z** Im Betriebsteam haben alle die gleichen Aufgaben, inklusive BV.
 
 -----------
 
@@ -253,8 +253,8 @@ Ich verzichte gegenüber dem [foodsharing e.V.](https://wiki.foodsharing.de/Food
 
 -----------
 
-Frage: **P** Ich allein trage die Verantwortung für die geretteten Lebensmittel.  
-Frage: **Q** Fehlverhalten kann Kooperationen gefährden, daher müssen diese gemeldet werden.
+Frage: **D** Ich allein trage die Verantwortung für die geretteten Lebensmittel.  
+Frage: **K** Fehlverhalten kann Kooperationen gefährden, daher müssen diese gemeldet werden.
 
 -----------
 
@@ -272,7 +272,7 @@ Termine zur Online-Hygieneschulung findest du auf deinem Dashboard oder [im Bezi
 
 -----------
 
-Frage: **R** Bis ich das Hygienequiz benötige, habe ich eine Übergangsfrist und kann bereits Lebensmittel retten.
+Frage: **W** Bis ich das Hygienequiz benötige, habe ich eine Übergangsfrist und kann bereits Lebensmittel retten.
 
 -----------
 
@@ -282,7 +282,7 @@ Das MHD ist ein Versprechen des Herstellers, bis zu welchem das Lebensmittel spe
 
 -----------
 
-Frage: **S** Ananas in der Dose, deren MHD um 1 Monat überschritten ist, muss ich öffnen und probieren, bevor ich sie weitergebe.
+Frage: **M** Ananas in der Dose, deren MHD um 1 Monat überschritten ist, muss ich öffnen und probieren, bevor ich sie weitergebe.
 
 -----------
 
@@ -296,7 +296,7 @@ Bei korrektem Umgang können VD-Lebensmittel am selben Tag noch genießbar sein.
 
 -----------
 
-Frage: **T** Hackfleisch mit überschrittenem VD kann ich weitergeben, wenn ich darauf hinweise.
+Frage: **H** Hackfleisch mit überschrittenem VD kann ich weitergeben, wenn ich darauf hinweise.
 
 -----------
 
@@ -342,7 +342,7 @@ Lagerung: dunkel und trocken.
 -----------
 
 Frage: **U** Es ist nicht riskant zubereiteten Reis sofort einzufrieren und nach dem Auftauen direkt erhitzen und essen.  
-Frage: **V** Ich darf Eier mit 5 Tagen überschrittenem MHD nicht weitergeben, aber selbst Kekse daraus backen, da Salmonellen absterben, während Toxine nicht ausgeschieden werden.
+Frage: **T** Ich darf Eier mit 5 Tagen überschrittenem MHD nicht weitergeben, aber selbst Kekse daraus backen, da Salmonellen absterben, während Toxine nicht ausgeschieden werden.
 
 -----------
 
@@ -354,7 +354,7 @@ Beim Umgang mit offenen Lebensmitteln, wie Backwaren und bei Buffetabholungen, m
 
 -----------
 
-Frage: **W** Dreckige Hände sind ein Problem, auch wenn die Lebensmittel manchmal dreckiger sind.
+Frage: **L** Dreckige Hände sind ein Problem, auch wenn die Lebensmittel manchmal dreckiger sind.
 
 -----------
 
@@ -371,7 +371,7 @@ Der Umgang mit Lebensmitteln ist bei folgenden Krankheiten zu unterlassen:
 
 -----------
 
-Frage: **X** Wenn ich Durchfall habe und niemand die Abholung übernimmt, führe ich sie durch, da ich dafür verantwortlich bin.
+Frage: **V** Wenn ich Durchfall habe und niemand die Abholung übernimmt, führe ich sie durch, da ich dafür verantwortlich bin.
 
 -----------
 
@@ -401,8 +401,8 @@ Eine:r aus dem Begrüßungsteam vermittelt dir Termine für zwei Einführungsabh
 
 -----------
 
-Frage: **Y** Sobald ich mit dem Einführungsprozess durch bin, kann ich mich in die Abholungstermine in den Betriebsteams eintragen.  
-Frage: **Z** Ich muss die Ergebnisse aus diesen Fragen an die Person senden, die mich begrüßt.  
+Frage: **R** Sobald ich mit dem Einführungsprozess durch bin, kann ich mich in die Abholungstermine in den Betriebsteams eintragen.  
+Frage: **F** Ich muss die Ergebnisse aus diesen Fragen an die Person senden, die mich begrüßt.  
 Es kommen noch weitere Fragen
 
 -----------
@@ -443,7 +443,7 @@ Wenn du einen Ausweis hast und an einer der Online-Hygieneschulungen in Österre
 
 -----------
 
-Frage: **B** Bei Betrieben ohne Fairnessregel darf ich theoretisch so viele Termine für mich reservieren, wie ich will.
+Frage: **E** Bei Betrieben ohne Fairnessregel darf ich theoretisch so viele Termine für mich reservieren, wie ich will.
 
 -----------
 
@@ -518,7 +518,7 @@ Für die Reinigung der Fairteiler eignen sich Papier- und Hygienetücher, Wischt
 
 -----------
 
-Frage: **C** Brot muss ich leider verpacken, wenn keine Gebäckzange im Fairteiler ist.
+Frage: **d** Brot muss ich leider verpacken, wenn keine Gebäckzange im Fairteiler ist.
 
 -----------
 
@@ -540,7 +540,7 @@ Der foodsharing e.V. mit Sitz in Berlin ist ein spendenfinanzierter Verein, der 
 
 -----------
 
-Frage: **D** Nicht einmal auf Pfandflaschen darf ich Geld verlangen.
+Frage: **X** Nicht einmal auf Pfandflaschen darf ich Geld verlangen.
 
 -----------
 
