@@ -391,13 +391,28 @@ Nach dem erfolgreich bestandenen Quiz wirst du gefragt, in welchem Bezirk du woh
 
 Dann wirst du persönlich begrüßt. Sende dieser Person die Buchstaben zu den richtigen Fragen/Aussagen aus diesem Handbuch.
 
-Eine:r aus dem Begrüßungsteam vermittelt dir Termine für zwei Einführungsabholungen (EA).
+Hier ist die überarbeitete Version deines Textes:
 
-- Frage eine:n aus dem Begrüßungsteam per Nachricht nach den Terminen. Nenne dabei, an welchen Orten/Zeitpunkten du am besten zur EA kommen kannst, z.B. Bregenz, Haselstauden (am Morgen).
+Auf dem Weg zum Foodsharing-Ausweis haken wir folgende Punkte ab:
+
+✅ Anmeldung  
+✅ Quiz  
+🟨 Geeignetes Foto vom Gesicht  
+🟨 Verständnisbestätigung / richtige Aussagen von [foodsharing-v.github.io](https://foodsharing-v.github.io/) eingereicht  
+🟨 Hygieneschulung (optional) + Quiz (verpflichtend)  
+🟨 Kontrolle von Geburtsdatum und Name (Signal, WhatsApp, bei EA, E-Mail (unverschlüsselt))  
+🟨 EA 1 (Einführungsabholung)  
+🟨 EA 2  
+🟨 Bot hat deinen Ausweis erstellt  
+
+Eine:r aus dem Begrüßungsteam vermittelt dir Termine für zwei Einführungsabholungen (EA). (An dieser Stelle kannst du auch gerne gleich Fragen los werden).
+
 - In Vorarlberg machen wir zwei klassische Abholungen bei zwei verschiedenen Betrieben, bei denen wir Lebensmittel retten (du bekommst die Hälfte). Dafür benötigst du maximal fünf Taschen oder Kisten für den Transport. Eine Abholung dauert ca. 15 Minuten.
 - Eine der Einführungen ist die Hygieneschulung. Mehr dazu siehe oben.
-- Wenn du alle vier Einführungen gemacht hast, kannst du deinen Ausweis unter "Profil-Einstellungen" -> "Ausweis" (links) [oder direkt hier](https://github.com/%3Fpage=settings&sub=passport) als PDF herunterladen, um ihn auf dem Handy vorzuzeigen. Möchtest du diesen als Karte, kontaktiere bitte eine:n BOT.
+- Wenn du alle vier Einführungen gemacht hast, kannst du deinen Ausweis unter "Profil-Einstellungen" -> "Ausweis" (links) [oder direkt hier](https://github.com/%3Fpage=settings&sub=passport) als PDF herunterladen, um ihn auf dem Handy vorzuzeigen. Möchtest oder Benötigst du diesen als Karte für einen Betrieb, in dem Karte voraussetzung ist, kontaktiere bitte eine:n BOT.
 - Bitte mache deine Einführungen in den nächsten sechs Monaten, da sie danach verfallen. Dann musst du bei einer Person des Begrüßungsteams um Wiederaufnahme des Einführungsprozesses bitten.
+Hier ist die korrigierte Version deines Textes:
+- Damit die Foodsharing-Organisation sicherstellen kann, dass deine Daten korrekt sind, überprüft ein Bot deinen Ausweis hinsichtlich deines Namens und deines Geburtsdatums. Dies kann bei einer Einführungsabholung oder online erfolgen. Für den Online-Prozess wähle bitte den Weg, der dir am liebsten ist: über den Messenger WhatsApp per Videoanruf, WhatsApp per Foto, Signal per Videoanruf, Signal per Foto oder per E-Mail (unverschlüsselt). Zum Schutz deiner Daten überdecke bitte die nicht relevanten Elemente (alles außer Name, Bild und Geburtsdatum). Falls du ein Foto sendest, nutze, wenn möglich, die "einmalige Ansicht", damit es umgehend wieder gelöscht wird. Andernfalls erfolgt die Kontrolle inerhalb 3 Tagen, und das Bild wird nicht länger gespeichert (Datenschutz).
 
 -----------
 
